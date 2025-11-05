@@ -1,3 +1,5 @@
 gitlab
 github
 tmp
+embeddings_cache.json
+.env
