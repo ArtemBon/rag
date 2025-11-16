@@ -16,8 +16,8 @@ class Config:
   GITLAB_PATH = 'gitlab'
 
   # Chunking settings
-  CHUNK_SIZE = 512
-  CHUNK_OVERLAP = 50
+  CHUNK_SIZE = 256
+  CHUNK_OVERLAP = 25
 
   # Retrieval settings
   TOP_K = 5
