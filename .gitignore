@@ -3,3 +3,11 @@ github
 tmp
 embeddings_cache.json
 .env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+.Python
